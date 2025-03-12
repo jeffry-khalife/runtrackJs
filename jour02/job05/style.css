@@ -1,0 +1,22 @@
+body {
+    min-height: 4096px;
+}
+
+footer {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 1% 0;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+}
+
+footer.scrolled {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: yellowgreen;
+  }
